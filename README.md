@@ -14,7 +14,7 @@ This project is a simple web application that generates quotes fetched from an e
 
 ### Screenshot
 
-<img src="" width="70%" alt="pro3 />
+<img src="https://vasu3.netlify.app/assets/pro3.png" width="70%" alt="pro3" />
 
 ### Features
 
