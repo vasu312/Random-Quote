@@ -12,6 +12,10 @@ This project is a simple web application that generates quotes fetched from an e
 
 ## Project Overview
 
+### Screenshot
+
+<img src="" width="70%" alt="pro3 />
+
 ### Features
 
 1. **Fetching Quotes**: The application fetches a random quote from the external API and displays it on the webpage.
